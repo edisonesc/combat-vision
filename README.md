@@ -7,7 +7,74 @@ Developed as an applied exploration of real-time pose analysis in a combat sport
 
 ![output_annotated-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d8ba7c21-bd76-4ffb-96dc-e001dbaecda3)
 
-
+```json
+{
+  "source_video": "output_annotated.mp4",
+  "total_events": 6,
+  "events": [
+    {
+      "timestamp_ms": 552.93,
+      "wrist": "left",
+      "velocity": 84.48,
+      "direction": {
+        "dx": 224.0,
+        "dy": -100.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 715.56,
+      "wrist": "right",
+      "velocity": 151.46,
+      "direction": {
+        "dx": 68.0,
+        "dy": -64.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 910.71,
+      "wrist": "left",
+      "velocity": 71.2,
+      "direction": {
+        "dx": -4.0,
+        "dy": -25.0
+      },
+      "classified_type": "UPPERCUT"
+    },
+    {
+      "timestamp_ms": 1105.86,
+      "wrist": "right",
+      "velocity": 43.83,
+      "direction": {
+        "dx": 12.0,
+        "dy": 32.0
+      },
+      "classified_type": "DOWNWARD"
+    },
+    {
+      "timestamp_ms": 1463.64,
+      "wrist": "left",
+      "velocity": 83.93,
+      "direction": {
+        "dx": 213.0,
+        "dy": -38.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 1821.42,
+      "wrist": "left",
+      "velocity": 61.72,
+      "direction": {
+        "dx": -9.0,
+        "dy": 61.0
+      },
+      "classified_type": "DOWNWARD"
+    }
+  ]
+}
+```
 
 ---
 
