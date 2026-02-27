@@ -4,8 +4,6 @@ A computer vision pipeline for automated boxing technique analysis. It processes
 
 Developed as an applied exploration of real-time pose analysis in a combat sports context, with a focus on accurate event detection, clean architecture, and extensibility toward ML-based classification.
 
-> Note: Currently WIP and only support basic movements
-
 
 ![output_annotated-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d8ba7c21-bd76-4ffb-96dc-e001dbaecda3)
 
