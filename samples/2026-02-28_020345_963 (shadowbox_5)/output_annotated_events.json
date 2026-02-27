@@ -1,0 +1,216 @@
+{
+  "source_video": "output_annotated.mp4",
+  "total_events": 21,
+  "events": [
+    {
+      "timestamp_ms": 432.3,
+      "wrist": "left",
+      "velocity": 52.2,
+      "direction": {
+        "dx": 15.0,
+        "dy": -78.0
+      },
+      "classified_type": "UPPERCUT"
+    },
+    {
+      "timestamp_ms": 798.1,
+      "wrist": "left",
+      "velocity": 72.25,
+      "direction": {
+        "dx": 60.0,
+        "dy": 165.0
+      },
+      "classified_type": "DOWNWARD"
+    },
+    {
+      "timestamp_ms": 897.86,
+      "wrist": "right",
+      "velocity": 72.44,
+      "direction": {
+        "dx": -17.0,
+        "dy": 46.0
+      },
+      "classified_type": "DOWNWARD"
+    },
+    {
+      "timestamp_ms": 1163.9,
+      "wrist": "left",
+      "velocity": 66.48,
+      "direction": {
+        "dx": -32.0,
+        "dy": -32.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 1330.17,
+      "wrist": "right",
+      "velocity": 66.4,
+      "direction": {
+        "dx": 2.0,
+        "dy": -25.0
+      },
+      "classified_type": "UPPERCUT"
+    },
+    {
+      "timestamp_ms": 1529.69,
+      "wrist": "left",
+      "velocity": 91.42,
+      "direction": {
+        "dx": -87.0,
+        "dy": -179.0
+      },
+      "classified_type": "UPPERCUT"
+    },
+    {
+      "timestamp_ms": 1695.96,
+      "wrist": "right",
+      "velocity": 76.12,
+      "direction": {
+        "dx": 0.0,
+        "dy": -166.0
+      },
+      "classified_type": "UPPERCUT"
+    },
+    {
+      "timestamp_ms": 2061.76,
+      "wrist": "right",
+      "velocity": 54.92,
+      "direction": {
+        "dx": -10.0,
+        "dy": -137.0
+      },
+      "classified_type": "UPPERCUT"
+    },
+    {
+      "timestamp_ms": 2527.31,
+      "wrist": "right",
+      "velocity": 80.78,
+      "direction": {
+        "dx": 107.0,
+        "dy": 133.0
+      },
+      "classified_type": "DOWNWARD"
+    },
+    {
+      "timestamp_ms": 2826.6,
+      "wrist": "left",
+      "velocity": 47.38,
+      "direction": {
+        "dx": 60.0,
+        "dy": -16.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 3292.16,
+      "wrist": "left",
+      "velocity": 260.57,
+      "direction": {
+        "dx": -79.0,
+        "dy": -198.0
+      },
+      "classified_type": "UPPERCUT"
+    },
+    {
+      "timestamp_ms": 3325.41,
+      "wrist": "right",
+      "velocity": 96.04,
+      "direction": {
+        "dx": 123.0,
+        "dy": -259.0
+      },
+      "classified_type": "UPPERCUT"
+    },
+    {
+      "timestamp_ms": 3657.96,
+      "wrist": "left",
+      "velocity": 1202.87,
+      "direction": {
+        "dx": 680.0,
+        "dy": 1039.0
+      },
+      "classified_type": "DOWNWARD"
+    },
+    {
+      "timestamp_ms": 3691.21,
+      "wrist": "right",
+      "velocity": 66.71,
+      "direction": {
+        "dx": 68.0,
+        "dy": 99.0
+      },
+      "classified_type": "DOWNWARD"
+    },
+    {
+      "timestamp_ms": 4256.53,
+      "wrist": "left",
+      "velocity": 358.25,
+      "direction": {
+        "dx": -22.0,
+        "dy": -297.0
+      },
+      "classified_type": "UPPERCUT"
+    },
+    {
+      "timestamp_ms": 4289.78,
+      "wrist": "right",
+      "velocity": 65.39,
+      "direction": {
+        "dx": -237.0,
+        "dy": 190.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 4722.09,
+      "wrist": "left",
+      "velocity": 273.25,
+      "direction": {
+        "dx": -119.0,
+        "dy": 291.0
+      },
+      "classified_type": "DOWNWARD"
+    },
+    {
+      "timestamp_ms": 4755.34,
+      "wrist": "right",
+      "velocity": 214.03,
+      "direction": {
+        "dx": 413.0,
+        "dy": -188.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 5287.41,
+      "wrist": "left",
+      "velocity": 396.82,
+      "direction": {
+        "dx": 676.0,
+        "dy": 548.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 5320.66,
+      "wrist": "right",
+      "velocity": 50.99,
+      "direction": {
+        "dx": 3.0,
+        "dy": 109.0
+      },
+      "classified_type": "DOWNWARD"
+    },
+    {
+      "timestamp_ms": 5719.71,
+      "wrist": "right",
+      "velocity": 61.91,
+      "direction": {
+        "dx": 106.0,
+        "dy": 329.0
+      },
+      "classified_type": "DOWNWARD"
+    }
+  ]
+}

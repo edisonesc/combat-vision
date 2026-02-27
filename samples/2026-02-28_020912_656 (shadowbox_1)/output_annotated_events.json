@@ -1,0 +1,166 @@
+{
+  "source_video": "output_annotated.mp4",
+  "total_events": 16,
+  "events": [
+    {
+      "timestamp_ms": 866.67,
+      "wrist": "left",
+      "velocity": 95.63,
+      "direction": {
+        "dx": -116.0,
+        "dy": -15.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 3533.33,
+      "wrist": "left",
+      "velocity": 52.35,
+      "direction": {
+        "dx": -25.0,
+        "dy": 12.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 4233.33,
+      "wrist": "right",
+      "velocity": 47.71,
+      "direction": {
+        "dx": -61.0,
+        "dy": -26.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 4666.67,
+      "wrist": "left",
+      "velocity": 121.4,
+      "direction": {
+        "dx": 155.0,
+        "dy": -18.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 5133.33,
+      "wrist": "right",
+      "velocity": 41.77,
+      "direction": {
+        "dx": 67.0,
+        "dy": -11.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 5233.33,
+      "wrist": "left",
+      "velocity": 105.6,
+      "direction": {
+        "dx": 146.0,
+        "dy": 53.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 5600.0,
+      "wrist": "left",
+      "velocity": 73.68,
+      "direction": {
+        "dx": 21.0,
+        "dy": 23.0
+      },
+      "classified_type": "DOWNWARD"
+    },
+    {
+      "timestamp_ms": 6166.67,
+      "wrist": "left",
+      "velocity": 43.05,
+      "direction": {
+        "dx": 88.0,
+        "dy": 25.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 6633.33,
+      "wrist": "left",
+      "velocity": 42.44,
+      "direction": {
+        "dx": -26.0,
+        "dy": -19.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 7533.33,
+      "wrist": "right",
+      "velocity": 40.36,
+      "direction": {
+        "dx": 47.0,
+        "dy": 20.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 8566.67,
+      "wrist": "right",
+      "velocity": 82.22,
+      "direction": {
+        "dx": 163.0,
+        "dy": -23.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 9366.67,
+      "wrist": "right",
+      "velocity": 45.01,
+      "direction": {
+        "dx": 5.0,
+        "dy": -21.0
+      },
+      "classified_type": "UPPERCUT"
+    },
+    {
+      "timestamp_ms": 9800.0,
+      "wrist": "right",
+      "velocity": 289.35,
+      "direction": {
+        "dx": 246.0,
+        "dy": 36.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 10366.67,
+      "wrist": "right",
+      "velocity": 51.66,
+      "direction": {
+        "dx": 60.0,
+        "dy": -28.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 11466.67,
+      "wrist": "right",
+      "velocity": 43.46,
+      "direction": {
+        "dx": -113.0,
+        "dy": 41.0
+      },
+      "classified_type": "STRAIGHT"
+    },
+    {
+      "timestamp_ms": 11933.33,
+      "wrist": "right",
+      "velocity": 126.53,
+      "direction": {
+        "dx": 65.0,
+        "dy": 42.0
+      },
+      "classified_type": "STRAIGHT"
+    }
+  ]
+}
