@@ -7,8 +7,8 @@ Developed as an applied exploration of real-time pose analysis in a combat sport
 > Note: Currently WIP and only support basic movements
 
 
+![output_annotated-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d8ba7c21-bd76-4ffb-96dc-e001dbaecda3)
 
-https://github.com/user-attachments/assets/b9e92a83-d5b8-414f-9827-20ad098d0577
 
 
 ---
